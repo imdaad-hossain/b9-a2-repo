@@ -107,7 +107,17 @@ b{
      border-radius: 16px;
     background: url(<path-to-image>), lightgray 50% / cover no-repeat;
     }
-    /* Our-Popular-Tours */
+
+    .our-popular-tours-text button{
+        color: white;
+        font-weight:600;
+        background-color: #FF5400;
+        border: none;
+        border-radius: 5px;
+        padding: 15px;
+       
+    }
+    /* Our-Popular-Tours end  */
 
     /* Choose-Your-Destination star */
     

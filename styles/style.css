@@ -19,14 +19,16 @@
 
 .right-navber img{
     max-width: 50px;
+    margin-right: 10px;
 }
 .right-navber{
     display: flex;
     align-items: center;
+    margin-right: 15px;
 }
 
 span{
-    color: indianred;
+    color: orangered;
 }
 
 .left-navber ul{
